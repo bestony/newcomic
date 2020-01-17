@@ -1,5 +1,4 @@
-极客漫画：气人的软件
-===============
+# 极客漫画：气人的软件
 
 ### 气人的软件 1
 
@@ -37,22 +36,24 @@
 
 ![annoying-software 4](./annoying-software-4.png)
 
-我觉得现在都用 LCD 显示器有一个好处就是，你可以一拳打破而不用担心骨折（流血那种事情不在我们的考虑之中~）。
+我觉得现在都用 LCD 显示器有一个好处就是，你可以一拳打破而不用担心骨折（流血那种
+事情不在我们的考虑之中~）。
 
 好气呀！
 
 ---
 
 via:
+
 - http://turnoff.us/geek/annoying-software/
 - http://turnoff.us/geek/annoying-software-2/
 - http://turnoff.us/geek/annoying-software-3/
 - http://turnoff.us/geek/annoying-software-4/
 
-作者：[Daniel Stori][a]
-译者&合成：[GHLandy](https://github.com/GHLandy)
-校对&点评：[wxy](https://github.com/wxy)
+作者：[Daniel Stori][a] 译者&合成：[GHLandy](https://github.com/GHLandy) 校对&点
+评：[wxy](https://github.com/wxy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
 
-[a]:http://turnoff.us/about/
+[a]: http://turnoff.us/about/

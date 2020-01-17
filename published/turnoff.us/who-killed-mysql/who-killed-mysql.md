@@ -1,5 +1,4 @@
-极客漫画：谁杀死了 MySQL
-===============
+# 极客漫画：谁杀死了 MySQL
 
 ![who-killed-mysql](./who-killed-mysql.png)
 
@@ -26,16 +25,19 @@
 
 ---
 
-LAMP 架构，指 Linux + Apache + MySQL + PHP 组合构成的一个完整的 Web 服务架构。这是一个经典而有点过时的架构，适合于小型的 Web 服务。
+LAMP 架构，指 Linux + Apache + MySQL + PHP 组合构成的一个完整的 Web 服务架构。这
+是一个经典而有点过时的架构，适合于小型的 Web 服务。
 
-在这里 MySQL 意外被 [SIGKILL](https://linux.cn/article-8791-1.html) [杀死](https://linux.cn/article-8771-1.html)了，没有留下任何遗言和痕迹（日志）。
+在这里 MySQL 意外被 [SIGKILL](https://linux.cn/article-8791-1.html)
+[杀死](https://linux.cn/article-8771-1.html)了，没有留下任何遗言和痕迹（日志）。
 
 ---
+
 via: http://turnoff.us/geek/who-killed-mysql/
 
-作者：[Daniel Stori][a]
-译者：[wxy](https://github.com/wxy)
+作者：[Daniel Stori][a] 译者：[wxy](https://github.com/wxy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
 
-[a]:http://turnoff.us/about/
+[a]: http://turnoff.us/about/

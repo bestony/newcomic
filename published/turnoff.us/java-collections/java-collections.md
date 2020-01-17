@@ -1,5 +1,4 @@
-鸭子爸爸生活中的 Java 集合
-=====
+# 鸭子爸爸生活中的 Java 集合
 
 ![Java Collections in Duck Life](./java-collections.png)
 
@@ -16,7 +15,6 @@
 - ... 不过迟早，我们只需要用栈来解决.
 - 出栈！
 
-
 点评：
 
 随着需求不断的增加，数据管理也将变得越发复杂。
@@ -27,10 +25,11 @@
 
 via: https://turnoff.us/geek/java-collections/
 
-作者：[Daniel Stori][a]
-译者&点评：[martin2011qi](https://github.com/martin2011qi)
-校对&合成：[GHLandy](https://github.com/GHLandy)
+作者：[Daniel Stori][a] 译者&点评
+：[martin2011qi](https://github.com/martin2011qi) 校对&合成
+：[GHLandy](https://github.com/GHLandy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
 
-[a]:http://turnoff.us/about/
+[a]: http://turnoff.us/about/

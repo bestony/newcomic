@@ -1,5 +1,4 @@
-极客漫画：Windows 更新
-===============
+# 极客漫画：Windows 更新
 
 ![Windows Update](./windows-update.png)
 
@@ -17,10 +16,10 @@
 
 via: http://turnoff.us/geek/windows-update/
 
-作者：[Daniel Stori][a]
-译者 & 点评：[wxy](https://github.com/wxy)
-校对 & 合成：[wxy](https://github.com/wxy)
+作者：[Daniel Stori][a] 译者 & 点评：[wxy](https://github.com/wxy) 校对 & 合成
+：[wxy](https://github.com/wxy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
 
-[a]:http://turnoff.us/about/
+[a]: http://turnoff.us/about/
