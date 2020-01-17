@@ -1,5 +1,4 @@
-极客漫画：让高等生命都迷茫的 Erlang
-===
+# 极客漫画：让高等生命都迷茫的 Erlang
 
 ![Advanced Species](./advanced-species.png)
 
@@ -9,16 +8,17 @@
 - 算了.……那是用 Erlang 写的
 - 走吧，我们根本读不懂！
 
-这是一篇吐槽 Erlang 有多难的一幅漫画。Erlang 太难，连未来到访的外星人都无法破译。
+这是一篇吐槽 Erlang 有多难的一幅漫画。Erlang 太难，连未来到访的外星人都无法破译
+。
 
 ---
+
 via: https://turnoff.us/geek/advanced-species/
 
-作者：[Daniel Stori][a]
-译者&点评：[Bestony](https://github.com/Bestony)
-校对：[wxy](https://github.com/wxy)
-合成：[GHLandy](https://github.com/GHLandy)
+作者：[Daniel Stori][a] 译者&点评：[Bestony](https://github.com/Bestony) 校对
+：[wxy](https://github.com/wxy) 合成：[GHLandy](https://github.com/GHLandy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
 
-[a]:http://turnoff.us/about/
+[a]: http://turnoff.us/about/

@@ -1,5 +1,4 @@
-极客漫画：函数式编程的世界
-===============
+# 极客漫画：函数式编程的世界
 
 ![Functional World](./functional-world.png)
 
@@ -22,19 +21,22 @@
 - 啊，我爱死这副作用了...
 - 未完待续
 
-作者巧妙地指出了函数式编程不可变（immultable）的特点。当你需要改变一个对象的属性的时候……嗯，销毁了再创建一个就是了。
-这里的老板想来份变量（改变全局变量的值），而所谓"副作用"（side effect），指的是在这种编程范式下，函数内部与外部互动可能会产生运算以外的其他结果，或导致程序出现不可预料的行为。
-或许，事件驱动的编程范式会好一点……？
+作者巧妙地指出了函数式编程不可变（immultable）的特点。当你需要改变一个对象的属性
+的时候……嗯，销毁了再创建一个就是了。这里的老板想来份变量（改变全局变量的值），而
+所谓"副作用"（side effect），指的是在这种编程范式下，函数内部与外部互动可能会产
+生运算以外的其他结果，或导致程序出现不可预料的行为。或许，事件驱动的编程范式会好
+一点……？
 
 via:
- - http://turnoff.us/geek/functional-world/
 
-作者：[Daniel Stori][a]
-译者：[ItsLucas](https://github.com/ItsLucas)
-校对：[Bestony](https://github.com/bestony)
-合成：[Bestony](https://github.com/bestony)
-点评：[ItsLucas](https://github.com/ItsLucas)
+- http://turnoff.us/geek/functional-world/
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+作者：[Daniel Stori][a] 译者：[ItsLucas](https://github.com/ItsLucas) 校对
+：[Bestony](https://github.com/bestony) 合成
+：[Bestony](https://github.com/bestony) 点评
+：[ItsLucas](https://github.com/ItsLucas)
 
-[a]:http://turnoff.us/about/
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
+
+[a]: http://turnoff.us/about/

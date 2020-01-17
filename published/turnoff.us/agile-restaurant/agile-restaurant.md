@@ -1,5 +1,4 @@
-极客漫画：敏捷餐馆
-===============
+# 极客漫画：敏捷餐馆
 
 ![The Agile Restaurant](./agile-restaurant.png)
 
@@ -22,17 +21,19 @@
 
 嗷，这个快节奏的年代！
 
-注：“敏捷”（agile）开发、“持续交付”（Continuous Delivery，CD）和“瀑布”（waterfall）式开发都是软件开发术语。瀑布式开发/瀑布模型是一种传统的、过时的开发模式，其得名于开发阶段按顺序衔接，如瀑布般进行。敏捷和持续交付是近年来流行的开发模式，能够比较好的适应现代的软件开发需求，但是，显然，如果餐馆也采用这种模式，似乎不太对劲。
+注：“敏捷”（agile）开发、“持续交付”（Continuous Delivery，CD）和“瀑布
+”（waterfall）式开发都是软件开发术语。瀑布式开发/瀑布模型是一种传统的、过时的开
+发模式，其得名于开发阶段按顺序衔接，如瀑布般进行。敏捷和持续交付是近年来流行的开
+发模式，能够比较好的适应现代的软件开发需求，但是，显然，如果餐馆也采用这种模式，
+似乎不太对劲。
 
-
-----
+---
 
 via: http://turnoff.us/geek/agile-restaurant/
 
-作者：[Daniel Stori][a]
-译者：[wxy](https://github.com/wxy)
+作者：[Daniel Stori][a] 译者：[wxy](https://github.com/wxy)
 
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译
+，[Linux 中国](https://linux.cn/) 荣誉推出
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
-
-[a]:http://turnoff.us/about/
+[a]: http://turnoff.us/about/
